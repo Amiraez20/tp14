@@ -2,13 +2,6 @@
 
 Réalisé par **EZBIRI Amira**
 
-## Contenu
-Ce dossier contient :
-- `snake_sslpinning_report.pdf` : rapport final au format PDF
-- `snake_sslpinning_report.tex` : source LaTeX
-- `README.md` : résumé de fonctionnement
-- `figures/` : captures utilisées dans le rapport
-
 ## Objectif
 L'objectif du TP est de neutraliser la détection root d'une application Android de test (`OWASP Uncrackable1`) à l'aide de :
 - ADB
